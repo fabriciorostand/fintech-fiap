@@ -61,7 +61,9 @@ form button.btn-primary {
 }
 
 form button.btn-primary:hover {
-    opacity: 0.8;
+    background-color: #f0f0f0;
+    color: #000000;
+    opacity: 1;
 }
 
 form p {
